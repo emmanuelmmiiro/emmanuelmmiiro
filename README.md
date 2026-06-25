@@ -35,7 +35,7 @@ Passed 4 FundingPips 2-Phase Evaluations with $40,000+ combined capital. Built P
 - **Tech Edge:** Developed Python journal to analyze R:R, win rate, profit factor for strategy optimization
 
 **Proof:** All accounts verified via FundingPips shared links
-[FP #1](https://app.fundingpips.com/shared/trading-accounts/a61d6a06-1676-44c5-9d7e-31974bf26cd3) | [FP #2](add-link) | [FP #3](add-link) | [FP #4](add-link)
+[FP #1](https://app.fundingpips.com/shared/trading-accounts/a61d6a06-1676-44c5-9d7e-31974bf26cd3) | [FP #2](https://app.fundingpips.com/shared/trading-accounts/fc541a0d-0b98-4469-a26d-36a309e17ac8) | [FP #3](https://app.fundingpips.com/shared/trading-accounts/c2922f87-971a-433f-9dbb-5ca551cde082) | [FP #4](https://app.fundingpips.com/shared/trading-accounts/10c17c0a-fd80-448b-9c6f-35bac2bde867)
 
 ### Tech I Use
 
