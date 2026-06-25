@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://emmanuelmmiiro.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/></a>
   <a href="https://www.myfxbook.com/portfolio/miiro-emmanuel"><img src="https://img.shields.io/badge/MyFXBook-0066CC?style=for-the-badge&logo=chart.js"/></a>
-  <a href="https://linkedin.com/in/miiro-emmanuel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://ug.linkedin.com/in/mmiiro-emmanuel-061649415"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
 Software Engineer + XAUUSD Prop Trader building tamper-proof systems, then trading markets I can’t control.
 
@@ -12,12 +12,11 @@ BSc Software Engineering, Makerere University 2023.
 
 ### What I’m Working On
 
-**Tamper-Proof CMS v2** — Criminal & data management system with blockchain audit trails. JavaScript + Solidity + immutable logging. Designed for institutions that need data integrity.
-github.com/emmanuelmmiiro/Tamper-proof-cms2
+**Tamper-Proof CMS v2** — Criminal & data management system with blockchain audit trails. JavaScript + Solidity + immutable logging. Designed for institutions that need data integrity.  github.com/emmanuelmmiiro/Tamper-proof-cms2
 
 **Solidity Security Auditor** — Custom toolkit for smart contract audits. Detects reentrancy, overflow, access control flaws using Slither + Python. 3+ years battle-tested. 
 
-**XAUUSD Discipline Bot v1** — Rule-based bot enforcing 1.5% risk per trade + $3k daily loss limit. Supply/Demand + SMA/RSI confluence on H1. 60-day journal automation. MyFXBook verified. www.myfxbook.com/portfolio/mmiiro-emmanuel
+**XAUUSD Discipline** — Rule-based bot enforcing 1.5% risk per trade + $3k daily loss limit. Supply/Demand + SMA/RSI confluence on H1. 60-day journal automation. MyFXBook verified. www.myfxbook.com/portfolio/mmiiro-emmanuel
 
 ### Tech I Use
 
