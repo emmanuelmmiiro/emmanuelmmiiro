@@ -12,7 +12,7 @@ BSc Software Engineering, Makerere University 2023.
 
 ### What I’m Working On
 
-**Tamper-Proof CMS v2** — Criminal & data management system with blockchain audit trails. JavaScript + Solidity + immutable logging. Designed for institutions that need data integrity. [View Repo](https://github.com/emmanuelmiiro/Tamper-proof-cms2)
+**Tamper-Proof CMS v2** — Criminal & data management system with blockchain audit trails. JavaScript + Solidity + immutable logging. Designed for institutions that need data integrity. https://github.com/emmanuelmiiro/Tamper-proof-cms2
 
 **Solidity Security Auditor** — Custom toolkit for smart contract audits. Detects reentrancy, overflow, access control flaws using Slither + Python. 3+ years battle-tested. 
 
