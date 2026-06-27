@@ -14,7 +14,8 @@ BSc Software Engineering, Makerere University 2023.
 
 **Tamper-Proof CMS v2** — Criminal & data management system with blockchain audit trails. JavaScript + Solidity + immutable logging. Designed for institutions that need data integrity. https://github.com/emmanuelmmiiro/Tamper-proof-cms2
 
-**Solidity Security Auditor** — Custom toolkit for smart contract audits. Detects reentrancy, overflow, access control flaws using Slither + Python. 3+ years battle-tested. 
+**Cosmos Wallet Checker** — Multi-chain Cosmos L1 explorer in React + TS. Queries balances, delegations, rewards via public REST. Built phone-only to prove auditable, keyless infra skills for tokenization.
+https://github.com/emmanuelmmiiro/Cosmos-wallet-checker
 
 **XAUUSD Discipline** — Rule-based  enforcing 1.5% risk per trade + $3k daily loss limit. Supply/Demand + SMA/RSI confluence on H1. 60-day journal automation. MyFXBook verified. www.myfxbook.com/portfolio/mmiiro-emmanuel
 
