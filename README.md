@@ -15,7 +15,7 @@ BSc Software Engineering, Makerere University 2023.
 **Tamper-Proof CMS v2** — Criminal & data management system with blockchain audit trails. JavaScript + Solidity + immutable logging. Designed for institutions that need data integrity. https://github.com/emmanuelmmiiro/Tamper-proof-cms2
 
 **MereExpress** — Multi-tenant food delivery marketplace in Next.js + FastAPI + Postgres + PostGIS + Docker. Browse nearby restaurants, order, split bills, track riders live, Momo/Airtel payments.Built for Kampala.
-https://github.com/emmanuelmmiiro/mereExpress
+https://github.com/emmanuelmmiiro/mereExpress-
 
 **Cosmos Wallet Checker** — Multi-chain Cosmos L1 explorer in React + TS. Queries balances, delegations, rewards via public REST. Built phone-only to prove auditable, keyless infra skills for tokenization.
 https://github.com/emmanuelmmiiro/Cosmos-wallet-checker
