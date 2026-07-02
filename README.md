@@ -51,9 +51,9 @@ Passed 4 FundingPips 2-Phase Evaluations with $40,000+ combined capital. Built P
 
 ### Track Record
 
-- **Education:** BSc Software Engineering, Makerere University 2023
-- **Trading:** 2 years verified | $100k FundedNext | +4.2% gain | 4.7% max drawdown
-- **Discipline:** 60-day challenge | 1.5% risk rule | $3k daily loss limit
+- **Education:** BSc Software Engineering, Makerere University 2024
+- **Trading:** 3 years verified | $40k FundingPips | +7.38% gain | 9.4% max drawdown
+- **Discipline:** 60-day challenge | 1.5% risk rule | $3k daily loss limit {account size $100k}
 
 ### Get In Touch
 
