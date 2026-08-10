@@ -8,6 +8,7 @@
 
 
 BSc Software Engineering - Makerere University, Second Class Upper.
+
 Open to roles in Business Analysis, Product, and Full-Stack Engineering.
 
 XAUUSD Prop Trader
