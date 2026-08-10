@@ -8,7 +8,7 @@
 Software Engineer + XAUUSD Prop Trader building tamper-proof systems, then trading markets I can’t control.
 
 I work across blockchain security and disciplined execution. Same brain, two arenas. 
-BSc Software Engineering, Makerere University 2023.
+BSc Software Engineering, Makerere University 2024.
 
 ### What I’m Working On
 
