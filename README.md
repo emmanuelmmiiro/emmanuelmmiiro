@@ -5,10 +5,12 @@
   <a href="https://www.myfxbook.com/portfolio/miiro-emmanuel"><img src="https://img.shields.io/badge/MyFXBook-0066CC?style=for-the-badge&logo=chart.js"/></a>
   <a href="https://ug.linkedin.com/in/mmiiro-emmanuel-061649415"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
 </p>
-Software Engineer + XAUUSD Prop Trader building tamper-proof systems, then trading markets I can’t control.
 
-I work across blockchain security and disciplined execution. Same brain, two arenas. 
-BSc Software Engineering, Makerere University 2024.
+
+BSc Software Engineering - Makerere University, Second Class Upper.
+Open to roles in Business Analysis, Product, and Full-Stack Engineering.
+
+XAUUSD Prop Trader
 
 ### What I’m Working On
 
